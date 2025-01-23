@@ -6,7 +6,7 @@ content = 'Описание заметки: '  # content: Описание за�
 print(content)
 status = 'Статус заметки: '     # status: Статус заметки
 print(status)
-created_date = '20-01-2025'     # created_date:  Дата создания заметки
+created_date = '20-01-2025 '    # created_date: Дата создания заметки
 print(created_date)
-issue_date = '20-02-2025'       # issue_date:   Дата истечения заметки
+issue_date = '20-02-2025 '      # issue_date: Дата истечения заметки
 print(issue_date)
